@@ -102,7 +102,7 @@ public class ApplicationDependent extends DriverScript {
 			int str1=Integer.parseInt(stramount);  
 			int str2=Integer.parseInt(stramountflipkart);  
 			
-			if(str1<str2)
+			if(str1>str2)
 			{
 				System.out.println("the price of iphone is less in amazon"+str1);
 			}else
