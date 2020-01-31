@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAssigment Automation" duration-ms="122274" started-at="2020-01-31T09:21:29Z" finished-at="2020-01-31T09:23:32Z">
+    <groups>
+    </groups>
+    <test name="TestAssignment Automation tests" duration-ms="122274" started-at="2020-01-31T09:21:29Z" finished-at="2020-01-31T09:23:32Z">
+      <class name="com.amazonandflipkart.driverscript.DriverScript">
+        <test-method status="PASS" signature="startAutomationSuite()[pri:0, instance:com.amazonandflipkart.driverscript.DriverScript@6d78f375]" name="startAutomationSuite" is-config="true" duration-ms="19" started-at="2020-01-31T14:51:29Z" finished-at="2020-01-31T14:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAutomationSuite -->
+        <test-method status="PASS" signature="executeTestScenarios()[pri:0, instance:com.amazonandflipkart.driverscript.DriverScript@6d78f375]" name="executeTestScenarios" duration-ms="122245" started-at="2020-01-31T14:51:29Z" finished-at="2020-01-31T14:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestScenarios -->
+      </class> <!-- com.amazonandflipkart.driverscript.DriverScript -->
+    </test> <!-- TestAssignment Automation tests -->
+  </suite> <!-- TestAssigment Automation -->
+</testng-results>
